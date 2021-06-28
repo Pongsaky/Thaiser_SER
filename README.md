@@ -19,7 +19,7 @@ pip install -r requirments.txt
 ```
 #### 3.Test model
 ``` shell
-python test.py
+python run.py
 ```
 
 ### How to train model [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HbrvlFtNWCYdYFZX5JDGJd_WuVNjAbbP?usp=sharing)
