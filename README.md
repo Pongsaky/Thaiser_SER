@@ -1,6 +1,6 @@
 ### THAISER SER
 
-SER is Speech emotion recognition.
+SER is Speech emotion recognition.\n
 Thaiser-ser is opensource to improve model ser's thai language using thaiser dataset.
 This repository use 3 model to compare efficiency including 
 1.CNNLSTM 
