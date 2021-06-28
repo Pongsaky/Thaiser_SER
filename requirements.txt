@@ -1,0 +1,4 @@
+vistec-ser
+soundfile
+sounddevice
+streamlit==0.83.0
