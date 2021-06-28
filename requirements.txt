@@ -1,0 +1,4 @@
+vistec-ser
+soundfile
+sounddevice
+streamlit
