@@ -10,15 +10,19 @@
 
 ## How to test
 ###### 1.CLone repository
-''' shell
+``` shell
 git clone https://github.com/Pongsaky/Thaiser_SER
-'''
+```
 ###### 2.Install environment
-''' shell
+``` shell
 pip install -r requirments.txt
-'''
+```
 ###### 3.Test model
-''' shell
+``` shell
 python test.py
-'''
+```
 
+###### how to train model [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HbrvlFtNWCYdYFZX5JDGJd_WuVNjAbbP?usp=sharing)
+
+Author
+Pongsakon Kaewjaidee
