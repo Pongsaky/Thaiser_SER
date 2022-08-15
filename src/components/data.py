@@ -92,7 +92,6 @@ class PrepareData(Dataset):
             fbank = self.transform(self._load_feature(self.file_path))
         else:
             fbank = self.transform(self.audio)
-        print(fbank.shape)
         samples = self._chop_sample(fbank)
         stack_samples = torch.stack(samples)
         return stack_samples
